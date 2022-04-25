@@ -6,3 +6,4 @@
 - [] Inserindo imagens ao site utilizando a tag "img".
 - [] Inserindo lista não ordenada com a tag "ul".
 - [] Criando o arquivo style.css e estilizando o site.
+- [] Adicionando cores e bordas a alguns elementos.
