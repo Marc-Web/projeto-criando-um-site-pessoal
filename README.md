@@ -7,4 +7,5 @@
 - [] Inserindo lista não ordenada com a tag "ul".
 - [] Criando o arquivo style.css e estilizando o site.
 - [] Adicionando cores e bordas a alguns elementos.
-- [] Melhorando espaçamentos entre os elementos do site.
+- [] Estilizando elementos do site.
+- [] Estilizando os textos do site.
