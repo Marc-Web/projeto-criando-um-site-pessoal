@@ -9,3 +9,5 @@
 - [] Adicionando cores e bordas a alguns elementos.
 - [] Estilizando elementos do site.
 - [] Estilizando os textos do site.
+- [] Estilizando a lista do footer.
+- [] Delimitando dimensões dos elementos e alinhando o conteúdo.
