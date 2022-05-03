@@ -1,4 +1,4 @@
-# Projeto: Criando um Site Pessoal com HTML5 e estilizando-o com CSS3.
+# Projeto: Criando um Site Pessoal com HTML5 e CSS3.
 
 - [x] Criando a estrutura básica do site com HTML.
 - [x] Introduzindo tags semânticas: header, section, article e footer.
